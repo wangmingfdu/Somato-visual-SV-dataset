@@ -27,7 +27,7 @@ Deep Learning Toolbox (formerly Neural Network Toolbox) provides a framework for
 
 There are detailed description of the code's functionality in the source code (main.m).
 
-Runing time is usually about one minutes.
+Runing time is usually about one minute.
 
 You can get the recognition accuracies of Visual (r1=0.8933), Somato (r2=0.845), BSV (r3=1), SV-V (r4=0.9367), SV-T(r5=0.9583), and SV-M (r6=0.97) approaches.
 
