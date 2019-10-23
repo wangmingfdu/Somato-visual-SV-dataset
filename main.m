@@ -51,7 +51,7 @@ end
  load net1c.mat 
 %Load Somato-based recognition model (net2c.mat)
  load net2c.mat 
-%Load Somato-based recognition model (sparsenet2.mat)
+%Load BSV recognition model (sparsenet2.mat)
  load sparsenet2.mat
 
 %Visual-based recognition only using visual images
