@@ -13,6 +13,9 @@ Has been tested on Windows 10 (64-bit).
 Matlab >= R2017.
 Require to install "Deep Learning Toolbox". 
 This package has been tested on Matlab R2017a with "Deep Learning Toolbox".
+Update:
+Due to the version update of Matlab, we have slightly adjust the raw code "main.m". 
+The new code "main_2023.m" has been tested on Matlab R2020b with "Deep Learning Toolbox".
 
 ## Installation guide 
 Deep Learning Toolbox (formerly Neural Network Toolbox) provides a framework for designing and implementing deep neural networks with algorithms, pretrained models, and apps. In MATLAB, there is an additional installation method for Mathworks toolboxes that you have already licensed. The details are following:
@@ -23,7 +26,7 @@ Deep Learning Toolbox (formerly Neural Network Toolbox) provides a framework for
 ## Instructions to run on the data
 #### 1. Please download all data & codes, and place them in the same folder 
 #### 2. Unzip all the .zip folder (e.g., SV_dataset.zip and feature_extract_9183.zip )
-#### 3. Run "main.m" using MATLAB.
+#### 3. Run "main.m" using MATLAB(2017); run "main_2023.m" using MATLAB(2020).
 
 There are detailed description of the code's functionality in the source code (main.m).
 
